@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Reviewed security headers configuration
 - Documented config options
+
+## 2026-03-22
+- Updated license year
